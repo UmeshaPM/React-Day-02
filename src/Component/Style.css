@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Baumans&family=Fascinate&family=Lobster&family=Manrope:wght@400;500&display=swap');
+
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    color:#ea390d;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.items{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hommie{
+    color: blueviolet;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+.abbie{
+    color: blueviolet;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+.box1{
+    width: 150px;
+    height: 100px;
+    margin: auto;
+    background-color: yellow;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.box2{
+    width: 150px;
+    height: 100px;
+    margin: auto;
+    background-color:red;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.abb{
+    margin: auto;
+}
+
